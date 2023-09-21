@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 고병수 입니다. 👋
 
 <!--
 **akfls367/akfls367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
